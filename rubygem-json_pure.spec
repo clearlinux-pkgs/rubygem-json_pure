@@ -4,7 +4,7 @@
 #
 Name     : rubygem-json_pure
 Version  : 1.8.3
-Release  : 7
+Release  : 8
 URL      : https://rubygems.org/downloads/json_pure-1.8.3.gem
 Source0  : https://rubygems.org/downloads/json_pure-1.8.3.gem
 Summary  : No detailed summary available
